@@ -1,0 +1,15 @@
+<%@include file="tekusource_include.jsp"%>
+<!DOCTYPE html PUBLIC "-//W3C//Dtd XHTML 1.0 transitional//EN" "http://www.w3.org/tr/xhtml1/Dtd/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>TekuSource</title>
+  		<link rel="stylesheet" type="text/css" href="<c:url value='/styles/tekusource.css'/>" />
+	</head>
+	<body>
+		<div class="ts-pcon">
+			<div class="ts-container">
+			d
+			</div>
+		</div>
+	</body>
+</html>

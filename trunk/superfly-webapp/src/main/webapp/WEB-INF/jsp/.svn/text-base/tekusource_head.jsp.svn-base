@@ -1,0 +1,4 @@
+<%@ include file="tekusource_include.jsp"  %>
+
+<link rel="stylesheet" media="screen" type="text/css" href="" />
+<link rel="stylesheet" media="screen" type="text/css" href="<c:url value='/styles/global.css' />" />

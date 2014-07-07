@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tekusource/!svn/ver/2/trunk/tekusource-webapp/src/main/webapp/WEB-INF/jsp
+END
+home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tekusource/!svn/ver/2/trunk/tekusource-webapp/src/main/webapp/WEB-INF/jsp/home.jsp
+END
+tekusource_head.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tekusource/!svn/ver/2/trunk/tekusource-webapp/src/main/webapp/WEB-INF/jsp/tekusource_head.jsp
+END
+tekusource_include.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tekusource/!svn/ver/2/trunk/tekusource-webapp/src/main/webapp/WEB-INF/jsp/tekusource_include.jsp
+END
+home_changeable.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tekusource/!svn/ver/2/trunk/tekusource-webapp/src/main/webapp/WEB-INF/jsp/home_changeable.jsp
+END

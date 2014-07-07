@@ -1,0 +1,326 @@
+<HTML>
+<HEAD>
+<TITLE>0005_red</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<style type="text/css">
+<!--
+img {
+	border: none;
+}
+.tah10 {
+	font-family: Tahoma;
+	font-size: 10px;
+	text-decoration: none;
+	color: #000000;
+}
+.tah11 {
+	font-family: Tahoma;
+	font-size: 11px;
+	text-decoration: none;
+	color: #000000;
+}
+.ver10 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-decoration: none;
+	color: #000000;
+}
+.ver11 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-decoration: none;
+	color: #000000;
+}
+.tah9 {
+	font-family: Tahoma;
+	font-size: 9px;
+	text-decoration: none;
+	color: #000000;
+}
+.ver9 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	text-decoration: none;
+	color: #000000;
+}
+-->
+</style>
+</HEAD>
+<BODY BGCOLOR=#FFFFFF LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0>
+<!-- ImageReady Slices (0005_red.psd - Slices: 03, 04, 05) -->
+<TABLE WIDTH=100% height="100%" BORDER=0 CELLPADDING=0 CELLSPACING=0 bgcolor="#FFFFFF">
+	<TR>
+		<TD width="50%" rowspan="3" background="images/bg.gif" bgCOLOR="#707787">&nbsp;</TD>
+		<td width="1" bgcolor="#000000" rowspan="3"><img src="images/spacer.gif" width="1" height="1"></td>
+    <TD> 
+<TABLE WIDTH=780 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<TR>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=22 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=24 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=17 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=26 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=23 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=26 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=77 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=189 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=42 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=63 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=33 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=24 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=33 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=45 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=79 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images/spacer.gif" WIDTH=57 HEIGHT=1 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD>
+			<IMG SRC="images/t1.gif" WIDTH=22 HEIGHT=27 ALT=""></TD>
+		<TD>
+			<a href="#"><IMG SRC="images/u1.gif" WIDTH=24 HEIGHT=27 ALT=""></a></TD>
+		<TD>
+			<IMG SRC="images/t2.gif" WIDTH=17 HEIGHT=27 ALT=""></TD>
+		<TD>
+			<a href="#"><IMG SRC="images/u2.gif" WIDTH=26 HEIGHT=27 ALT=""></a></TD>
+		<TD>
+			<IMG SRC="images/t3.gif" WIDTH=23 HEIGHT=27 ALT=""></TD>
+		<TD>
+			<a href="#"><IMG SRC="images/u3.gif" WIDTH=26 HEIGHT=27 ALT=""></a></TD>
+		<TD COLSPAN=2>
+			<IMG SRC="images/t4.gif" WIDTH=266 HEIGHT=27 ALT=""></TD>
+		<TD>
+			<a href="#"><IMG SRC="images/u4.gif" WIDTH=42 HEIGHT=27 ALT=""></a></TD>
+		<TD>
+			<a href="#"><IMG SRC="images/u5.gif" WIDTH=63 HEIGHT=27 ALT=""></a></TD>
+		<TD COLSPAN=2>
+			<a href="#"><IMG SRC="images/u6.gif" WIDTH=57 HEIGHT=27 ALT=""></a></TD>
+		<TD COLSPAN=2>
+			<a href="#"><IMG SRC="images/u7.gif" WIDTH=78 HEIGHT=27 ALT=""></a></TD>
+		<TD COLSPAN=2>
+			<a href="#"><IMG SRC="images/u8.gif" WIDTH=136 HEIGHT=27 ALT=""></a></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=16>
+			<IMG SRC="images/bigtop.jpg" WIDTH=780 HEIGHT=104 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=7>
+			<IMG SRC="images/h1.gif" WIDTH=215 HEIGHT=34 ALT=""></TD>
+		<TD COLSPAN=4>
+			<IMG SRC="images/h2.gif" WIDTH=327 HEIGHT=34 ALT=""></TD>
+		<TD COLSPAN=2>
+			<IMG SRC="images/search.gif" WIDTH=57 HEIGHT=34 ALT=""></TD>
+		<TD COLSPAN=2 background="images/input.gif" WIDTH=124 HEIGHT=34 align="center">
+<input type="text" size="16">
+		</TD>
+		  <TD> <IMG SRC="images/go.gif" ALT="" WIDTH=57 HEIGHT=34 border="0" usemap="#Map"></TD>
+	</TR>
+</TABLE>	
+	 </TD>
+		<td width="1" bgcolor="#000000" rowspan="3"><img src="images/spacer.gif" width="1" height="1"></td>
+		<TD width="50%" rowspan="3" background="images/bg.gif" bgCOLOR="#707787">&nbsp;</TD>
+	</TR>
+	<TR>
+		<TD height="100%">
+<TABLE WIDTH=780 BORDER=0 CELLPADDING=0 CELLSPACING=0 height="100%">
+	<TR>
+		<TD WIDTH=180 HEIGHT=100%>
+<TABLE WIDTH=180 BORDER=0 CELLPADDING=0 CELLSPACING=0 height="100%">
+	<TR>
+		<TD>
+			<IMG SRC="images/n1.gif" WIDTH=180 HEIGHT=14 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD WIDTH=180 HEIGHT=100% bgCOLOR="#707787" valign="top">
+<div style="padding:15;color:ffffff" class="ver10">
+<img  src="images/arrow.gif" hspace="4" align="absmiddle"><font style="color:292929">May 1, 2003</font>
+<br>
+<b>News Header</b>
+<br>
+Lorem ipsum dolor sit amet, consectetuer adipcing elit. Praesent vestibulum molestie lacus. Aenean nonummy hen  
+cursus nec, luctus a, 
+consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy hen 
+Praesent vestibulum molestie.          <a href="#" style="color:ffffff;text-decoration:underline"  class="ver10">read&nbsp;more..</a>
+<br><br>
+<img  src="images/arrow.gif" hspace="4" align="absmiddle"><font style="color:292929">May 1, 2003</font>
+<br>
+<b>News Header</b>
+<br>
+<img src="images/img0.jpg" vspace="5"><br>
+Lorem ipsum dolor sit amet, consectetuer adipcing elit. Praesent vestibulum molestie lacus. Aenean nonummy hen  
+cursus nec, luctus a, 
+consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy hen 
+Praesent vestibulum molestie.          <a href="#" style="color:ffffff;text-decoration:underline"  class="ver10">read&nbsp;more..</a>
+</div>		
+		</TD>
+	</TR>
+</TABLE>		
+		</TD>
+		<TD WIDTH=404 HEIGHT=581>
+<TABLE WIDTH=404 BORDER=0 CELLPADDING=0 CELLSPACING=0 background="images/bg1.gif" height="100%">
+	<TR>
+		<TD COLSPAN=2>
+			<IMG SRC="images/top11.gif" WIDTH=404 HEIGHT=18 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD WIDTH=404 COLSPAN=2 valign="top">
+<div style="padding:15" class="ver10">
+<img src="images/img1.jpg" hspace="15" align="left">
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, 
+<br clear="all"><br>
+</div>		
+		</TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=2>
+			<IMG SRC="images/h4.gif" WIDTH=404 HEIGHT=57 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD WIDTH=129 valign="top">
+<div style="padding-top:15"	 align="center">
+<img src="images/img2.jpg"><br>
+<a href="#"><img src="images/readmore.gif" vspace="4"></a><br>
+<a href="#"><img src="images/addto.gif"></a>
+
+</div>
+		</TD>
+		<TD WIDTH=275  valign="top">
+<div style="padding:15;padding-left:0" class="ver10">
+<b>COMMODITY NAME - $29</b>
+<br>
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat 
+</div>		
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=129 HEIGHT=100% valign="top">
+<div style="padding-top:15"	 align="center">
+<img src="images/img3.jpg"><br>
+<a href="#"><img src="images/readmore.gif" vspace="4"></a><br>
+<a href="#"><img src="images/addto.gif"></a>
+
+</div>
+		</TD>
+		<TD WIDTH=275 HEIGHT=173 valign="top">
+<div style="padding:15;padding-left:0" class="ver10">
+<b>COMMODITY NAME - $29</b>
+<br>
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat 
+</div>		
+		</TD>
+	</TR>
+</TABLE>		
+		</TD>
+		<TD WIDTH=196 HEIGHT=581>
+<TABLE WIDTH=196 BORDER=0 CELLPADDING=0 CELLSPACING=0 height="100%">
+	<TR>
+		<TD>
+			<IMG SRC="images/h5.gif" WIDTH=196 HEIGHT=49 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD>
+			<a href="#"><IMG SRC="images/l1.gif" WIDTH=196 HEIGHT=23 ALT=""></a></TD>
+	</TR>
+	<TR>
+		<TD>
+			<a href="#"><IMG SRC="images/l2.gif" WIDTH=196 HEIGHT=19 ALT=""></a></TD>
+	</TR>
+	<TR>
+		<TD>
+			<a href="#"><IMG SRC="images/l3.gif" WIDTH=196 HEIGHT=20 ALT=""></a></TD>
+	</TR>
+	<TR>
+		<TD>
+			<a href="#"><IMG SRC="images/l4.gif" WIDTH=196 HEIGHT=21 ALT=""></a></TD>
+	</TR>
+	<TR>
+		<TD>
+			<a href="#"><IMG SRC="images/l5.gif" WIDTH=196 HEIGHT=20 ALT=""></a></TD>
+	</TR>
+	<TR>
+		<TD>
+			<a href="#"><IMG SRC="images/l6.gif" WIDTH=196 HEIGHT=19 ALT=""></a></TD>
+	</TR>
+	<TR>
+		<TD>
+			<a href="#"><IMG SRC="images/l7.gif" WIDTH=196 HEIGHT=21 ALT=""></a></TD>
+	</TR>
+	<TR>
+		<TD>
+			<a href="#"><IMG SRC="images/l8.gif" WIDTH=196 HEIGHT=19 ALT=""></a></TD>
+	</TR>
+	<TR>
+		<TD>
+			<a href="#"><IMG SRC="images/l9.gif" WIDTH=196 HEIGHT=20 ALT=""></a></TD>
+	</TR>
+	<TR>
+		<TD>
+			<a href="#"><IMG SRC="images/l10.gif" WIDTH=196 HEIGHT=19 ALT=""></a></TD>
+	</TR>
+	<TR>
+		<TD>
+			<IMG SRC="images/h6.gif" WIDTH=196 HEIGHT=58 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD WIDTH=196 HEIGHT=100% bgCOLOR="#CED2D9" valign="top">
+<div style="padding:15" class="ver10">
+<img src="images/img5.jpg"><br><br>
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada 
+</div>		
+		</TD>
+	</TR>
+</TABLE>		
+		</TD>
+	</TR>
+</TABLE>		
+		</TD>
+	</TR>
+	<TR>
+		<TD>
+<TABLE WIDTH=780 BORDER=0 CELLPADDING=0 CELLSPACING=0 background="images/bgdown.gif">
+	<TR>
+		<TD WIDTH=780 HEIGHT=26 COLSPAN=2 align="center">
+<a href="#" style="color:ffffff" class="ver10"><b>STORE LOCATOR</b></a>	&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" style="color:ffffff" class="ver10"><b>PHARMACY</b></a>	&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" style="color:ffffff" class="ver10"><b>ORDER STATUS</b></a>	&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" style="color:ffffff" class="ver10"><b>CONTACT US</b></a>	&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" style="color:ffffff" class="ver10"><b>HELP</b></a>	&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" style="color:ffffff" class="ver10"><b>SITE MAP</b></a>	&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" style="color:ffffff" class="ver10"><b>SHOPPING</b></a>	&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" style="color:ffffff" class="ver10"><b>CAREERS</b></a>
+		</TD>
+	</TR>
+	<TR>
+		<TD>
+			<IMG SRC="images/bot1.gif" WIDTH=32 HEIGHT=28 ALT=""></TD>
+		<TD WIDTH=748 HEIGHT=28 align="center" class="ver10">
+<b>
+YourCompany.Com © 2003 • <a href="#" class="ver10"><b>Privacy Policy</b></a> • <a href="#" class="ver10"><b>Terms Of Use</b></a>
+</b>		
+		</TD>
+	</TR>
+</TABLE>		
+		</TD>
+	</TR>
+</TABLE>
+<!-- End ImageReady Slices -->
+<map name="Map">
+  <area shape="circle" coords="13,18,11" href="#">
+</map>
+</BODY>
+</HTML>

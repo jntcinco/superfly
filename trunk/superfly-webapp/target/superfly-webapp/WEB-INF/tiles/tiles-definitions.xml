@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 2.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_2_0.dtd">
+<tiles-definitions>
+	<!--
+		We declare a new template named add.
+		It has 4 attributes. These attributes are placeholder for our contents
+		For each attribute, we have assigned a corresponding JSP
+	-->
+	<definition name="add" template="/WEB-INF/jsp/layouts/user.jsp">
+		<put-attribute name="ibm-head" value="/WEB-INF/jsp/templates/ibm_head.jsp"/>
+		<put-attribute name="ibm-masthead" value="/WEB-INF/jsp/templates/ibm_masthead.jsp"/>
+		<put-attribute name="ibm-footer" value="/WEB-INF/jsp/templates/ibm_footer.jsp"/>
+		<put-attribute name="ibm-metrics" value="/WEB-INF/jsp/templates/ibm_metrics.jsp"/>
+	</definition>
+	<definition name="view" template="/WEB-INF/jsp/layouts/userList.jsp">
+		<put-attribute name="ibm-head" value="/WEB-INF/jsp/templates/ibm_head.jsp"/>
+		<put-attribute name="ibm-masthead" value="/WEB-INF/jsp/templates/ibm_masthead.jsp"/>
+		<put-attribute name="ibm-footer" value="/WEB-INF/jsp/templates/ibm_footer.jsp"/>
+		<put-attribute name="ibm-metrics" value="/WEB-INF/jsp/templates/ibm_metrics.jsp"/>
+	</definition>
+	
+	<!-- Concrete page. To use this page, your controller must return the name of Spring's viewname -->
+	<!-- we can use inheritance by using the attribute "extends" -->
+	<definition name="userPage" extends="add">
+		<put-attribute name="formContent" value="/WEB-INF/jsp/contents/userForm.jsp"/>
+	</definition>
+	
+	<definition name="viewPage" extends="view">
+		<put-attribute name="viewContent" value="/WEB-INF/jsp/contents/userView.jsp"/>
+	</definition>
+</tiles-definitions>
